@@ -1,0 +1,3 @@
+Amanat is a peer-to-peer rental marketplace designed for Pakistan, where high inflation makes buying expensive lifestyle and professional assets out of reach for many. The platform connects owners of idle assets with people who need them — securely and affordably.
+The core problem Amanat solves is the trust deficit in peer-to-peer transactions. We address this through three pillars: NADRA-linked identity verification, escrow-protected security deposits, and timestamped digital condition reports.
+This repository contains the UI prototype for the Amanat mobile app, including the opening screen, home/listings screen, product detail screen, and the full 3-step trust flow (Verify → Escrow → Check-In).
